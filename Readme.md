@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Мария Чернова](https://up.htmlacademy.ru/javascript/19/user/49571).
-* Наставник: `Неизвестно`.
+* Наставник: `Сама по себе`.
 
 ---
 
